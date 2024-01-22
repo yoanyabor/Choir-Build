@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.118a26ba.css",
+    "main.js": "/static/js/main.c5a9b5d8.js",
+    "static/js/787.a66d40df.chunk.js": "/static/js/787.a66d40df.chunk.js",
+    "static/media/choir.png": "/static/media/choir.2795d856d0ee6fbcbf02.png",
+    "static/media/bg_kids.png": "/static/media/bg_kids.552093830dbb6ad4fd1e.png",
+    "static/media/claudia-headshot2020-02-scaled.jpeg": "/static/media/claudia-headshot2020-02-scaled.ce30919bae36854d58e9.jpeg",
+    "static/media/GMA_LOGO_CIRCLE.png": "/static/media/GMA_LOGO_CIRCLE.33eafdd8d8e2efa108e6.png",
+    "index.html": "/index.html",
+    "main.118a26ba.css.map": "/static/css/main.118a26ba.css.map",
+    "main.c5a9b5d8.js.map": "/static/js/main.c5a9b5d8.js.map",
+    "787.a66d40df.chunk.js.map": "/static/js/787.a66d40df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.118a26ba.css",
+    "static/js/main.c5a9b5d8.js"
+  ]
+}
